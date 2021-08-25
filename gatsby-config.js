@@ -15,6 +15,14 @@ module.exports = {
     author: siteConfig.author
   },
   plugins: [
+	{
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        trackingId: `UA-129589928-1`, // 측정 ID
+        head: false, // head에 tracking script를 넣고 싶다면 true로 변경 
+        anonymize: true,
+      },
+    },
     `gatsby-plugin-netlify-cms-paths`,
     {
       resolve: 'gatsby-source-filesystem',
