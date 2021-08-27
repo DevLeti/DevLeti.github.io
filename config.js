@@ -17,12 +17,12 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: 'https://lofty-apogee-5ce.notion.site/DevLETi-1970a7f4dfeb4543887b68a71975865a'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'DevLETi',
