@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://devleti.github.io',
+  url: 'https://imleti.dev',
   pathPrefix: '/',
   title: 'Blog by DevLETi',
   subtitle: 'DevLETi\'s blog to remind past',
