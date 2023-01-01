@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'DevLETi',
     photo: '/photo.jpg',
-    bio: 'Want to be a cloud infrastructure engineer with quadrilingual - Korean, Japanese, Chinese, English.',
+    bio: '',
     contacts: {
       email: '',
       facebook: '',
