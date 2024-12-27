@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: 'https://lofty-apogee-5ce.notion.site/DevLETi-1970a7f4dfeb4543887b68a71975865a'
+      path: 'https://www.linkedin.com/in/devleti/'
     },
     // {
     //   label: 'Contact me',
